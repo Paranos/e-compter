@@ -1,7 +1,8 @@
 {
   "name": "Apprendre à compter",
   "short_name": "Compter",
-  "start_url": ".",
+  "start_url": "/learn-to-count/",
+  "scope": "/learn-to-count/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
@@ -19,3 +20,4 @@
     }
   ]
 }
+
