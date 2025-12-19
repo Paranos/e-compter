@@ -1,11 +1,11 @@
 const CACHE_NAME = "compter-v1";
 
 const FILES_TO_CACHE = [
-  "/learn-to-count/",
-  "/learn-to-count/index.html",
-  "/learn-to-count/style.css",
-  "/learn-to-count/script.js",
-  "/learn-to-count/manifest.json"
+  "/e-compter/",
+  "/e-compter/index.html",
+  "/e-compter/style.css",
+  "/e-compter/script.js",
+  "/e-compter/manifest.json"
 ];
 
 self.addEventListener("install", event => {
